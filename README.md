@@ -12,7 +12,7 @@ TBD
 | ------------- |:-------------:| -----:|
 |[Shivangi Agarwal](https://github.com/AShivangi)| Developer, Documentation |  |
 |[Shreya De](add link)| Developer, Documentation |  |
-|[Avni Gulati](add link)| Developer, Documentation |  |
+|[Avni Gulati](https://github.com/avnigulati)| Developer, Documentation |  |
 |[Anju Merican](add link)| Developer, Documentation |  |
 |[Yolanda Zhang](add link)| Developer, Documentation |  |
 
@@ -26,6 +26,8 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 [Get familiar](https://flutter.io/get-started/codelab/) with the language 
 
 # Add other technologies used
+Uing Flutter with Android SDK. 
+IDE used: Android Studio.
 
 # Getting Started 
 Explain how to run the app on the local machine
